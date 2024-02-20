@@ -1,5 +1,6 @@
 import AlertMsg from "./components/AlertMsg";
 import Buttons from "./components/Button";
+import DatePickers from "./components/DatePicker";
 import Forms from "./components/Forms";
 import Inputs from "./components/Inputs";
 import Selects from "./components/Selects";
@@ -24,6 +25,9 @@ const App = () => {
       <br />
       <br />
       <AlertMsg />
+      <br />
+      <br />
+      <DatePickers />
     </div>
   );
 };
