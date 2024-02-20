@@ -14,6 +14,7 @@ const Inputs = () => {
       <br /> <br />
       <Input
         placeholder="Password"
+        showCount
         prefix={<SecurityScanFilled />}
         type="password"
       />

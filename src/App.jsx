@@ -32,6 +32,8 @@ const App = () => {
       <br />
       <br />
       <Spins />
+      <br />
+      <br />
     </div>
   );
 };
