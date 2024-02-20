@@ -4,6 +4,7 @@ import DatePickers from "./components/DatePicker";
 import Forms from "./components/Forms";
 import Inputs from "./components/Inputs";
 import Selects from "./components/Selects";
+import Spins from "./components/Spins";
 import Tables from "./components/Tables";
 
 const App = () => {
@@ -28,6 +29,9 @@ const App = () => {
       <br />
       <br />
       <DatePickers />
+      <br />
+      <br />
+      <Spins />
     </div>
   );
 };
