@@ -1,8 +1,9 @@
-import { Button } from "antd";
+import Buttons from "./components/Button";
+
 const App = () => {
   return (
     <div>
-      <Button type="primary">Primary</Button>
+      <Buttons />
     </div>
   );
 };
