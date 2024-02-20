@@ -1,5 +1,6 @@
 import Buttons from "./components/Button";
 import Inputs from "./components/Inputs";
+import Selects from "./components/Selects";
 
 const App = () => {
   return (
@@ -8,6 +9,9 @@ const App = () => {
       <br />
       <br />
       <Inputs />
+      <br />
+      <br />
+      <Selects />
     </div>
   );
 };
