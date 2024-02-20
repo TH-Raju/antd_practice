@@ -1,3 +1,4 @@
+import AlertMsg from "./components/AlertMsg";
 import Buttons from "./components/Button";
 import Forms from "./components/Forms";
 import Inputs from "./components/Inputs";
@@ -20,6 +21,9 @@ const App = () => {
       <br />
       <br />
       <Tables />
+      <br />
+      <br />
+      <AlertMsg />
     </div>
   );
 };
