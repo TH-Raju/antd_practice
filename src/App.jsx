@@ -33,7 +33,6 @@ const App = () => {
       <br />
       <Spins />
       <br />
-      <br />
     </div>
   );
 };
