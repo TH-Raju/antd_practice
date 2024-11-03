@@ -30,7 +30,6 @@ const App = () => {
       <br />
       <DatePickers />
       <br />
-      <br />
       <Spins />
       <br />
     </div>
