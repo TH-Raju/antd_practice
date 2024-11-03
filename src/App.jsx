@@ -27,7 +27,6 @@ const App = () => {
       <br />
       <AlertMsg />
       <br />
-      <br />
       <DatePickers />
       <br />
       <Spins />
